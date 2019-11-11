@@ -1,0 +1,17 @@
+  html { 
+    background: url(https://us.123rf.com/450wm/subbotina/subbotina1709/subbotina170900047/85330577-fall-background-autumn-colorful-leaves-and-sun-flares.jpg?ver=6) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  p {
+      font: bold;
+      color: brown;
+  }
+  h3{
+      font: italic;
+  }
+  #footer01 {
+      font: italic;
+  }
