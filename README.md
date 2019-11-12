@@ -1,5 +1,8 @@
 # About-Me
+<<<<<<< HEAD
 # About-Me
+=======
+>>>>>>> 38390a66f615866bc4a5e1f969782980e64d631f
 # Project Title
 
 One Paragraph of General project information
